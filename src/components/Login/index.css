@@ -1,0 +1,10 @@
+/* Write your CSS here */
+
+.button {
+  height: 150px;
+  width: 200px;
+  background-color: #ffffff;
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+}
